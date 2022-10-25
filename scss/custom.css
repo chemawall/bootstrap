@@ -1,9 +1,4 @@
 @charset "UTF-8";
-* {
-  border: 1px dashed red;
-  min-height: 10px;
-}
-
 .objectfit {
   -o-object-fit: none;
      object-fit: none;
